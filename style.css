@@ -1,0 +1,22 @@
+element.style {
+}
+:host, :root {
+    --fa-font-solid: normal 900 1em / 1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-regular: normal 400 1em / 1 "Font Awesome 6 Free";
+}
+:host, :root {
+    --fa-font-brands: normal 400 1em / 1 "Font Awesome 6 Brands";
+}
+html[Attributes Style] {
+    -webkit-locale: "es";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
